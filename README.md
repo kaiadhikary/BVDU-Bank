@@ -1,7 +1,7 @@
 # 🏦 BVDU-Bank — Banking & Trading Management System (C)
 
 <p align="center">
-  <img src="screenshots/bvdu_bank_logo.png" alt="BVDU Bank Logo" width="180"/>
+  <img src="bvdu_bank_logo.png" alt="BVDU Bank Logo" width="180"/>
 </p>
 
 **Banking Vision for Development & Unity (BVDU)** — a complete **Banking + Trading simulation** written in **C language** using **file handling**.  
