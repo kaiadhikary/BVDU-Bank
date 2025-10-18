@@ -112,20 +112,20 @@ BTC|Bitcoin|35000.00|0.05|US|2025-10-15 12:00:00|0|24
 ## 🧠 Project Structure
 
 ```
-BVDU_Bank_Project/
+BVDU-Bank/
 ├── bvdu_bank.c
 ├── accounts.txt
 ├── holdings.txt
 ├── prices.txt
 ├── transactions.txt
-├── fx_rates.txt
-├── admin_audit.txt
 ├── notifications.txt
+├── admin_audit.txt
+├── fx_rates.txt
 ├── README.md
-├── LICENSE
 ├── AUTHORS.md
-└── screenshots/
-    └── bvdu_bank_logo.png
+├── CONTRIBUTORS.md
+├── LICENSE
+└── bvdu_bank_logo.png
 ```
 
 ---
